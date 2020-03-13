@@ -6,6 +6,7 @@ var input1 = prompt("Enter first number:");
 // Stores that second number.
 var input2 = prompt("Enter second number:")
 
-// Responds with the sum of two numbers by using an alert.
+// Responds with the sum of two numbers.
+// Alert sum.
 var sumCalc = Number(input1) + Number(input2);
 alert(sumCalc);
